@@ -11,7 +11,7 @@ It helps you register new users to manage your Discord server in a systematic wa
 ### Dependencies
 
 * The only library you need to install is discord.py
-
+* You need to use python environment
 
 ### Installing
 
